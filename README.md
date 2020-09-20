@@ -5,9 +5,9 @@ It is a course design for the course "MATLAB foundation and engineering applicat
 
 ## Design Requiremnets
 1. The 3-DOF hybrid manipulator is shown in the figure below, which includes a planar 2-DOF parallel manipulator and a 1-DOF serial manipulator. The established SimMechanics model is required to include the detailed structure of the robotic arm joints and end effector, as well as modules for observing the movement of the robotic arm, such as an oscilloscope.
-![image]()
+![image](https://github.com/Rexyyj/5RMechanismPositionInverseSolution/raw/master/figure/fig1.png)
 2. The plane 2-degree-of-freedom parallel manipulator is shown in the figure below. It belongs to a 5-bar mechanism and has 5 rotating pairs, of which the two rotating pairs connected to the frame are driving joints. Suppose the axis of each rotating pair is along the basic coordinate system z axis.
-![image]()
+![image](https://github.com/Rexyyj/5RMechanismPositionInverseSolution/raw/master/figure/fig2.png)
 3. The 1 degree of freedom serial manipulator can move in the vertical direction (along the z axis of the basic coordinate system), and is connected to the plane 2 degree of freedom parallel manipulator through a moving pair.
 4. The structural parameters (including the length of the rod) of the robot arm are freely designed.
 5. The basic coordinate system of the robot arm is located at the lower left corner of the robot arm in the figure above.
